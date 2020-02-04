@@ -1,0 +1,3 @@
+name: batched-queue
+include: .
+depend: cubical
